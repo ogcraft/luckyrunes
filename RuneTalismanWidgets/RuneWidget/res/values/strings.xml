@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">hellp</string>
+    <string name="app_name">RuneWidget</string>
+    <string name="talisman_info">"<h1>Title</h1><p>Italic</p><p>highlighted</p><p>bold.</p>"</string>
+</resources>

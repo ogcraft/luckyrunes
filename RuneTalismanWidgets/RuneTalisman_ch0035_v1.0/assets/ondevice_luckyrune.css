@@ -1,0 +1,90 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+body {
+	margin: 5px;
+	padding: 5px;
+	background: #333333
+	text-align: justify;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    height: 95%;
+    width: 95%;
+}
+
+img.talismanimg {
+    display: block;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.talismanTitle
+{
+text-align:center;
+/*
+padding-left:25px;
+padding-right:5px;
+*/
+padding-top:10px;
+padding-bottom:0px;
+color: #6A0020;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:bold;
+}
+
+.talismanSubTitle
+{
+text-align:center;
+/*
+padding-left:25px;
+padding-right:5px;
+*/
+padding-top:5px;
+padding-bottom:5px;
+color: #6A0020;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+font-weight:normal;
+font-style:italic;
+}
+
+a
+{
+text-decoration:none;
+color:  #6A0020;
+}
+
+p
+{
+text-align:justify;
+padding-left:10px;
+padding-top:10px;
+padding-bottom:1px;
+color:  #6A0020;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+#footer {
+width: 98%;
+height: 98%;
+text-align:center;
+font-size:16px;
+padding-top:10px;
+padding-bottom:20px;
+color:  #6A0020;
+}
+
+#copyright {
+text-align:center;
+font-size:14px;
+color:#6A0020;
+padding-top:20px;
+padding-bottom:30px;
+color:#AC8228;
+}
+
+
+html, body {
+text-align: center;
+}

@@ -1,0 +1,54 @@
+Application .apk file:
+com.luckyrune.RuneTalisman_ch0035 (249k)Published
+
+AUJARuneTalisman
+VersionName: 1.0
+VersionCode: 1
+Localized to: default
+
+Screenshots 2 ( 1 required and 1 optional)
+320 x 480, 480 x 800, or 480 x 854
+24 bit PNG or JPEG (no alpha)
+Full bleed, no border in art
+
+High Resolution Application Icon:
+512w x 512h
+32 bit PNG or JPEG
+Maximum: 1024 KB
+
+Promotional Graphic
+180w x 120h
+24 bit PNG or JPEG (no alpha)
+Full bleed, no border in art
+
+Feature Graphic
+optional
+1024w x 500h
+24 bit PNG or JPEG (no alpha)
+
+Listing details
+Language
+| *English (en) |
+
+Title (en) 27 characters (30 max):
+Talisman AUJA for Good Luck
+
+Description (en) 494 characters (4000 max):
+Talisman AUJA for Good Luck and Success
+A really working, practical Rune Magick Talisman for attracting good luck and success to the owner in all his
+endeavors. AUJA is an old Scandinavian magic word referring to 'fortune', 'wealth' or 'possession'. Amulets
+containing AUJA were used by Vikings for protection, good fortune, as well as, happiness, joy, and strength.
+From ancient times to the present day, the AUJA magic word has been successfully used in runic magic and
+proved its efficiency.
+
+Promo Text (en) 77 characters (80 max):
+Magick Talisman for Luck and Success. Attracts good luck and success to owner.
+
+
+Price: 1.00 USD
+
+Contact information
+Website: http://www.luckyrune.com/
+
+Email: luckyrune@gmail.com
+

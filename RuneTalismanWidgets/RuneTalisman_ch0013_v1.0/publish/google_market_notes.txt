@@ -1,0 +1,51 @@
+Application .apk file:
+com.luckyrune.RuneTalisman_ch0013 
+
+WealthRuneTalisman
+VersionName: 1.0
+VersionCode: 1
+Localized to: default
+
+Screenshots 2 ( 1 required and 1 optional)
+320 x 480, 480 x 800, or 480 x 854
+24 bit PNG or JPEG (no alpha)
+Full bleed, no border in art
+
+High Resolution Application Icon:
+512w x 512h
+32 bit PNG or JPEG
+Maximum: 1024 KB
+
+Promotional Graphic
+180w x 120h
+24 bit PNG or JPEG (no alpha)
+Full bleed, no border in art
+
+Feature Graphic
+optional
+1024w x 500h
+24 bit PNG or JPEG (no alpha)
+
+Listing details
+Language
+| *English (en) |
+
+Title (en) 30 characters (30 max):
+Wealth and Confidence Talisman
+
+Description (en) 494 characters (4000 max):
+Triple Fehu is as an ancient powerful magical talisman to attract luck and money, to rebuild inner strength - increasing richness if you like - both mentally and physically and to bolster self-esteem, resolve and confidence.
+Put this Talisman on your cell phone, work with the Talisman each and every day and soon you will see how it change your Mind and your Life! 
+
+
+Promo Text (en) 77 characters (80 max):
+Magick Talisman For Wealth, Possessions and Self-Confidence.
+
+
+Price: 1.00 USD
+
+Contact information
+Website: http://www.luckyrune.com/
+
+Email: luckyrune@gmail.com
+

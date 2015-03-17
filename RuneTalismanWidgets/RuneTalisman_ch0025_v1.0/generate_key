@@ -1,0 +1,2 @@
+#!/bin/sh
+keytool -genkey -v -keystore ch0025.keystore -alias ch0025key -keyalg RSA -keysize 2048 -validity 100000
