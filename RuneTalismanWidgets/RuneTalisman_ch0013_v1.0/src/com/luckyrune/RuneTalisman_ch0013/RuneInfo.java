@@ -29,6 +29,11 @@ public class RuneInfo extends Activity {
         mainTextView = (WebView) findViewById(R.id.info_main_text_view);
         //mainTextView.loadData(RuneTalismanData.talisman_info, "text/html", "utf-8");
         mainTextView.getSettings().setJavaScriptEnabled(false);
-        mainTextView.loadUrl("file:///android_asset/info.html");
+        String lang = Locale.getDefault().getLanguage();
+        if(lang.equal("ru")) {
+         mainTextView.loadUrl("file:///android_asset/info_ru.html");
+        } else {
+         mainTextView.loadUrl("file:///android_asset/info.html");
+        }
      }
 }
