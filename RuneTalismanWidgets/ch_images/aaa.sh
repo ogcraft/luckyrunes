@@ -15,9 +15,9 @@ set -v
 #
 
 color="#a30000"
-convert -size 320x100 xc:none -border 3 -alpha transparent -background none -fill 'rgba(255,255,255,0)' -stroke '#a30000' -strokewidth 4 -draw "roundRectangle 15,20 310,80 15,15" circle.png
-convert -size 320x100 xc:transparent -font runes-germanic-kern-cc-germanic-kern-cc -pointsize 50 -channel RGBA -gaussian 0x6 -fill '#a30000' -draw "text 50,66 ',t.s.u,'" ch0010_script.png
+convert -size 700x400 xc:none -border 3 -alpha transparent -background none -fill 'rgba(255,255,255,0)' -stroke '#a30000' -strokewidth 4 -draw "roundRectangle 15,20 310,80 15,15" circle.png
+convert -size 700x400 xc:transparent -font runes-germanic-kern-cc-germanic-kern-cc -pointsize 50 -channel RGBA -gaussian 0x6 -fill '#a30000' -draw "text 50,66 ',t.s.u,'" ch0010_script_700x400.png
 #grungepaper6_320_100.jpg
-composite ch0010_script.png circle.png ch0010_circled.png
-composite ch0010_circled.png grungepaper6_320_100.jpg ch0010.png
+composite ch0010_script_700x400.png circle.png ch0010_700x400_circled.png
+#composite ch0010_700x400_circled.png grungepaper6_320_100.jpg ch0010.png
 
